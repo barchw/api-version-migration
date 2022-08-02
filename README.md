@@ -49,6 +49,6 @@
     ```sh
     kubectl describe apirules.v1beta1.gateway.kyma-project.io
     ```
-
+## External references
 Based on: https://book.kubebuilder.io/multiversion-tutorial/tutorial.html
 
